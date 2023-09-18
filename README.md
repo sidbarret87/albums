@@ -12,7 +12,9 @@
 
 **Использование**
 
-Установите необходимые библиотеки, запустив pip install requests beautifulsoup4.
+Установите необходимые библиотеки, запустив 
+
+     pip install requests beautifulsoup4.
 
 Запустите скрипт, предоставив URL страницы с альбомами на Yandex Music.
 
